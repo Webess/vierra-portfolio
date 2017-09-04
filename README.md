@@ -11,7 +11,7 @@ To begin using this template, choose one of the following options to get started
 * Fork the repo
 
 ## Preview & Demo
-[[https://github.com/webess/vierra-portfolio/_PSD/preview.jpg|alt=VierraPortfolio]]  
+![VierraPortfolio](http://demo.liso.sk/vierra-portfolio/_PSD/preview.jpg)   
 [Original design preview](http://demo.liso.sk/vierra-portfolio/_PSD/psd_preview.jpg)  
 [View demo](http://demo.liso.sk/vierra-portfolio/)
 
