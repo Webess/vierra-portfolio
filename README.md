@@ -38,4 +38,4 @@ VierraPortfolio is based on the [Bootstrap](http://getbootstrap.com/) framework 
 * [Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
 
 ## Copyright and License
-Copyright 2014-2017 [Liso.sk](http://liso.sk). Code released under the [MIT license](https://github.com/Webess/vierra-portfolio/blob/master/LICENSE).
+Copyright 2014-2017 [Liska.dev](https://liska.dev). Code released under the [MIT license](https://github.com/Webess/vierra-portfolio/blob/master/LICENSE).
