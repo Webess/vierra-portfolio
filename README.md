@@ -20,10 +20,12 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 ## Creator
 
-VierraPortfolio was created by and is maintained by **[Webess](http://liso.sk/)**.
+VierraPortfolio was created by and is maintained by **[Tomáš Líška](https://liska.dev/)**.
 
 * [Twitter @tomasliska](https://twitter.com/tomasliska)
 * [GitHub @Webess](https://github.com/webess)
+* [LinkeIn @tomliska](https://www.linkedin.com/in/tomliska/)
+* [Website](https://liska.dev)
 
 VierraPortfolio is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
